@@ -4,4 +4,4 @@ This work is part of a course 'Aerodynamics of Transport Vehicles' during the Ma
 
 Software: OpenFoam
 Equations: RANS
-Turbulence model: k-$\omega$ sst
+Turbulence model: k-ω sst
